@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mango-gh.
-- 👀 I’m interested in SWE and Cyber Security.
 - 🌱 I’m currently pursuing my masters in Computer Science at SUNY Buffalo.
 - 📫 Reach me through my mail treja.manu@gmail.com.
 
